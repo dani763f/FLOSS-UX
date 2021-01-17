@@ -1,67 +1,133 @@
 {"0": {
     "doc": "Code Inheritance",
+    "title": "Consider legacy code vs rewriting",
+    "content": "Legacy code might make certain backend portions easier to manage, however consider how inheriting code might impact the design possibilites, the ease of entry for new contributors or users . ",
+    "url": "http://192.168.1.148:4000/docs/Study%20Findings/Code%20inheritance.html#consider-legacy-code-vs-rewriting",
+    "relUrl": "/docs/Study%20Findings/Code%20inheritance.html#consider-legacy-code-vs-rewriting"
+  },"1": {
+    "doc": "Code Inheritance",
     "title": "Code Inheritance",
-    "content": "# Consider legacy code vs rewriting Legacy code might make certain backend portions easier to manage, however consider how inheriting code might impact the design possibilites, the ease of entry for new contributors or users ",
+    "content": " ",
     "url": "http://192.168.1.148:4000/docs/Study%20Findings/Code%20inheritance.html",
     "relUrl": "/docs/Study%20Findings/Code%20inheritance.html"
-  },"1": {
+  },"2": {
+    "doc": "Considering Roles",
+    "title": "Consider your roles",
+    "content": "Having non code contributions such as PM/KM/Design contributions may help and remove stress from core developers . ",
+    "url": "http://192.168.1.148:4000/docs/Study%20Findings/Considering%20Roles.html#consider-your-roles",
+    "relUrl": "/docs/Study%20Findings/Considering%20Roles.html#consider-your-roles"
+  },"3": {
     "doc": "Considering Roles",
     "title": "Considering Roles",
-    "content": "# Consider your roles Having non code contributions such as PM/KM/Design contributions may help and remove stress from core developers ",
+    "content": " ",
     "url": "http://192.168.1.148:4000/docs/Study%20Findings/Considering%20Roles.html",
     "relUrl": "/docs/Study%20Findings/Considering%20Roles.html"
-  },"2": {
+  },"4": {
+    "doc": "Existing research",
+    "title": "Existing FLOSS Research",
+    "content": " ",
+    "url": "http://192.168.1.148:4000/docs/Existing%20research/Existing%20Study%20Findings.html#existing-floss-research",
+    "relUrl": "/docs/Existing%20research/Existing%20Study%20Findings.html#existing-floss-research"
+  },"5": {
     "doc": "Existing research",
     "title": "Existing research",
-    "content": "# Existing FLOSS Research ",
+    "content": " ",
     "url": "http://192.168.1.148:4000/docs/Existing%20research/Existing%20Study%20Findings.html",
     "relUrl": "/docs/Existing%20research/Existing%20Study%20Findings.html"
-  },"3": {
+  },"6": {
     "doc": "History of research",
     "title": "History of research",
-    "content": "It can be said that bla bla bla ",
+    "content": "It can be said that bla bla bla . ",
     "url": "http://192.168.1.148:4000/docs/Existing%20research/History%20of%20research.html",
     "relUrl": "/docs/Existing%20research/History%20of%20research.html"
-  },"4": {
+  },"7": {
+    "doc": "In-Project Education",
+    "title": "Make time for in-project education",
+    "content": "Having discussions on the best ways to things create stronger cohesion trough social interaction and creates a more aligned team of individuals all on the same page about where to go . ",
+    "url": "http://192.168.1.148:4000/docs/Study%20Findings/In-Project%20Education.html#make-time-for-in-project-education",
+    "relUrl": "/docs/Study%20Findings/In-Project%20Education.html#make-time-for-in-project-education"
+  },"8": {
     "doc": "In-Project Education",
     "title": "In-Project Education",
-    "content": "# Make time for in-project education Having discussions on the best ways to things create stronger cohesion trough social interaction and creates a more aligned team of individuals all on the same page about where to go ",
+    "content": " ",
     "url": "http://192.168.1.148:4000/docs/Study%20Findings/In-Project%20Education.html",
     "relUrl": "/docs/Study%20Findings/In-Project%20Education.html"
-  },"5": {
+  },"9": {
+    "doc": "Study findings",
+    "title": "The Findings of the Study",
+    "content": "This page contain the introduction to the study and why it matters, and also the study itself. ",
+    "url": "http://192.168.1.148:4000/Study_findings#the-findings-of-the-study",
+    "relUrl": "/Study_findings#the-findings-of-the-study"
+  },"10": {
     "doc": "Study findings",
     "title": "Study findings",
-    "content": "Up to date {: .label .label-green .float-right} # The Findings of the Study This page contain the introduction to the study and why it matters, and also the study itself. ",
+    "content": "Up to date . ",
     "url": "http://192.168.1.148:4000/Study_findings",
     "relUrl": "/Study_findings"
-  },"6": {
+  },"11": {
     "doc": "The Study",
     "title": "The Study",
-    "content": "# The Study Below the full study can be downloaded and read. The study found that the academic format is not... {% pdf \"/docs/Study Findings/study.pdf\" %} ",
+    "content": "Below the full study can be downloaded and read. The study found that the academic format is not… . Download the Study . ",
     "url": "http://192.168.1.148:4000/docs/Study%20Findings/The%20Study.html",
     "relUrl": "/docs/Study%20Findings/The%20Study.html"
-  },"7": {
+  },"12": {
+    "doc": "The Developer Playground",
+    "title": "“The Developer Playground”",
+    "content": "The developer playground …. ",
+    "url": "http://192.168.1.148:4000/docs/Study%20Findings/The%20developer%20playground.html#the-developer-playground",
+    "relUrl": "/docs/Study%20Findings/The%20developer%20playground.html#the-developer-playground"
+  },"13": {
     "doc": "The Developer Playground",
     "title": "The Developer Playground",
-    "content": "# \"The Developer Playground\" The developer playground .... ",
+    "content": " ",
     "url": "http://192.168.1.148:4000/docs/Study%20Findings/The%20developer%20playground.html",
     "relUrl": "/docs/Study%20Findings/The%20developer%20playground.html"
-  },"8": {
+  },"14": {
     "doc": "About",
     "title": "About",
     "content": " ",
     "url": "http://192.168.1.148:4000/about/",
     "relUrl": "/about/"
-  },"9": {
+  },"15": {
+    "doc": "Home",
+    "title": "Design in FLOSS projects",
+    "content": "This project is dedicated to improving, educating and creating discussion for the benefit of everyone interested in software that resides in the realm of Free/Libre and Open Source Software (FLOSS). What does it take to create user experiences that rival proprietary software with huge budgets and design teams? Let’s figure it out as a community, through discussion and cooperation! . ",
+    "url": "http://192.168.1.148:4000/#design-in-floss-projects",
+    "relUrl": "/#design-in-floss-projects"
+  },"16": {
+    "doc": "Home",
+    "title": "Why this project?",
+    "content": "Design work in FLOSS is a unique problem. Design activities take a lot of time and require unique skills. This becomes a problem when most of the people in FLOSS are developers who don’t always have the necessary education, interest or resources to support design activities. The need to support FLOSS communities with these decisions has existed since the inception of FLOSS and in some ways even before that (Norman, 1981). Since then the notion that FLOSS software is hard to use and developed for power users has existed and still thrive to this day. This seems to hint at the fact that this issue is harder to tackle than one might assume, and that it requires a lot of discussion and recontextualization of mindsets in these communities that are creating extremely powerful software that is available to everyone around the world. ",
+    "url": "http://192.168.1.148:4000/#why-this-project",
+    "relUrl": "/#why-this-project"
+  },"17": {
+    "doc": "Home",
+    "title": "The Study",
+    "content": "This format and the content on this page is built on a study of two FLOSS projects that while vastly different in terms of size and goals have interesting similarities and serve as a great way to kick start discussions on the subject. Additionally, some of the findings from previous studies are also distilled into easily accessible considerations to avoid the barrier that is reading and understanding. ",
+    "url": "http://192.168.1.148:4000/#the-study",
+    "relUrl": "/#the-study"
+  },"18": {
+    "doc": "Home",
+    "title": "How does it work?",
+    "content": "This page is intended as the “frontend” of the projects corresponding GitHub page. The process is designed to work as follows. | Anyone can create a discussion suggesting a new addition to these pages. This can be commenting on what’s already there, possible solutions or something else that the FLOSS practitioner in question finds relevant. | The results or notions from the discussion are formulated into a pull request, proposing the change needed to the existing files or new files being created from the discussion | The pull request is merged and the change is reflected on the content of the site. The intention is that this pattern repeats itself which will make this site a living, changing and fully free/libre documentation for everyone wanting to enrich their user experiences in their respective projects. | . Get started now View it on GitHub . ",
+    "url": "http://192.168.1.148:4000/#how-does-it-work",
+    "relUrl": "/#how-does-it-work"
+  },"19": {
     "doc": "Home",
     "title": "Home",
-    "content": "# Design in FLOSS projects This project is dedicated to **improving, educating and creating discussion** for the benefit of everyone interested in software that resides in the realm of Free/Libre and Open Source Software (FLOSS). What does it take to create user experiences that rival proprietary software with huge budgets and design teams? Let's figure it out as a community, through discussion and cooperation! {: .fs-6 .fw-300 } --- ## Why this project? **Design work in FLOSS is a unique problem**. Design activities take a lot of time and require unique skills. This becomes a problem when most of the people in FLOSS are developers who don't always have the necessary education, interest or resources to support design activities. The need to support FLOSS communities with these decisions has existed since the inception of FLOSS and in some ways even before that [(Norman, 1981)](https://www.researchgate.net/publication/202165676_The_trouble_with_UNIX_The_user_interface_is_horrid). Since then the notion that FLOSS software is hard to use and developed for power users has existed and still thrive to this day. This seems to hint at the fact that this issue is harder to tackle than one might assume, and that it requires a lot of discussion and recontextualization of mindsets in these communities that are creating extremely powerful software that is available to everyone around the world. ## The Study This format and the content on this page is built on a study of two FLOSS projects that while vastly different in terms of size and goals have interesting similarities and serve as a great way to kick start discussions on the subject. Additionally, some of the findings from previous studies are also distilled into easily accessible considerations to avoid the barrier that is reading and understanding. ## How does it work? This page is intended as the \"frontend\" of the projects corresponding GitHub page. The process is designed to work as follows. 1. Anyone can create a discussion suggesting a new addition to these pages. This can be commenting on what's already there, possible solutions or something else that the FLOSS practitioner in question finds relevant. 2. The results or notions from the discussion are formulated into a pull request, proposing the change needed to the existing files or new files being created from the discussion 3. The pull request is merged and the change is reflected on the content of the site. The intention is that this pattern repeats itself which will make this site a living, changing and fully free/libre documentation for everyone wanting to enrich their user experiences in their respective projects. [Get started now](/Study_findings){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/dani763f/FLOSSUX){: .btn .fs-5 .mb-4 .mb-md-0 } ",
+    "content": " ",
     "url": "http://192.168.1.148:4000/",
     "relUrl": "/"
-  },"10": {
+  },"20": {
+    "doc": "Reference list",
+    "title": "References",
+    "content": "This is a list of the studies used to inform the exisisting research and inspire the efforts found in “Study findings”. | Contribution type | Year and author | Title | . | Opinion | (Frishberg et al., 2002) | Getting to know you: open source development meets usability | . | Empirical | (Benson et al., 2004) | Professional Usability in Open Source Projects: GNOME, OpenOffice.org, NetBeans | . | Empirical | (Andreasen et al., 2006) | Usability in open source software development: opinions and practice | . | Methodological | (Nichols &amp; Twidale, 2006) | Usability processes in open source projects | . | Methodological | (Bach et al., 2007) | Usability and free/libre/open source software SIG: HCI expertise and design rationale | . | Empirical | (Iivari, 2008) | Usability in Open Source Software Development: An Interpretive Case Study | . | Empirical | (Terry et al., 2010) | Perceptions and practices of usability in the free/open source software (FoSS) community | . | Methodological | (Rajanen et al., 2012) | Introducing usability activities into open source software development projects: a participative approach | . | Survey | (Despalatovic, 2013) | The Usability of Free/Libre/Open Source Projects | . | Empirical | (Iivari et al., 2014) | Encouraging for Enculturation – An Enquiry on the Effort of Usability Specialists Entering OSS Projects | . | Empirical | (Rajanen &amp; Iivari, 2015a) | Examining Usability Work and Culture in OSS | . | Theoretical | (Rajanen &amp; Iivari, 2015b) | Power, Empowerment and Open Source Usability | . | Empirical | (Rajanen et al., 2015) | Non-response, Social Exclusion, and False Acceptance: Gatekeeping Tactics and Usability Work in Free-Libre Open Source Software Development | . | Methodological | (Masson et al., 2017) | A Usability Refactoring Process for Large-Scale Open Source Projects: The ILIAS Case Study | . | Empirical | (Cheng &amp; Guo, 2018) | How Do the Open Source Communities Address Usability and UX Issues? An Exploratory Study | . | Methodological | (Llerena, Rodríguez, Castro, et al., 2018) | How to Incorporate a Usability Technique in the Open Source Software Development Process | . | Methodological | (Llerena, Rodríguez, Llerena, et al., 2018) | Applying a Usability Technique in the Open Source Software Development Process: Experiences from the Trenches | . | Dataset | (Wang et al., 2020) | How Do Open Source Software Contributors Perceive and Address Usability? Valued Factors, Practices, and Challenges | . ",
+    "url": "http://192.168.1.148:4000/docs/Existing%20research/litterature.html#references",
+    "relUrl": "/docs/Existing%20research/litterature.html#references"
+  },"21": {
     "doc": "Reference list",
     "title": "Reference list",
-    "content": "# References This is a list of the studies used to inform the exisisting research and inspire the efforts found in \"Study findings\". {: .fs-6 .fw-300 } **Contribution type**|**Year and author**|**Title** :-----:|:-----:|:-----: Opinion|(Frishberg et al., 2002)|Getting to know you: open source development meets usability Empirical|(Benson et al., 2004)|Professional Usability in Open Source Projects: GNOME, OpenOffice.org, NetBeans Empirical|(Andreasen et al., 2006)|Usability in open source software development: opinions and practice Methodological|(Nichols & Twidale, 2006)|Usability processes in open source projects Methodological|(Bach et al., 2007)|Usability and free/libre/open source software SIG: HCI expertise and design rationale Empirical|(Iivari, 2008)|Usability in Open Source Software Development: An Interpretive Case Study Empirical|(Terry et al., 2010)|Perceptions and practices of usability in the free/open source software (FoSS) community Methodological|(Rajanen et al., 2012)|Introducing usability activities into open source software development projects: a participative approach Survey|(Despalatovic, 2013)|The Usability of Free/Libre/Open Source Projects Empirical|(Iivari et al., 2014)|Encouraging for Enculturation – An Enquiry on the Effort of Usability Specialists Entering OSS Projects Empirical|(Rajanen & Iivari, 2015a)|Examining Usability Work and Culture in OSS Theoretical|(Rajanen & Iivari, 2015b)|Power, Empowerment and Open Source Usability Empirical|(Rajanen et al., 2015)|Non-response, Social Exclusion, and False Acceptance: Gatekeeping Tactics and Usability Work in Free-Libre Open Source Software Development Methodological|(Masson et al., 2017)|A Usability Refactoring Process for Large-Scale Open Source Projects: The ILIAS Case Study Empirical|(Cheng & Guo, 2018)|How Do the Open Source Communities Address Usability and UX Issues? An Exploratory Study Methodological|(Llerena, Rodríguez, Castro, et al., 2018)|How to Incorporate a Usability Technique in the Open Source Software Development Process Methodological|(Llerena, Rodríguez, Llerena, et al., 2018)|Applying a Usability Technique in the Open Source Software Development Process: Experiences from the Trenches Dataset|(Wang et al., 2020)|How Do Open Source Software Contributors Perceive and Address Usability? Valued Factors, Practices, and Challenges ",
+    "content": " ",
     "url": "http://192.168.1.148:4000/docs/Existing%20research/litterature.html",
     "relUrl": "/docs/Existing%20research/litterature.html"
   }
