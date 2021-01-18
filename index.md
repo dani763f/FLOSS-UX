@@ -27,4 +27,4 @@ This page is intended as the "frontend" of the projects corresponding GitHub pag
 3. The pull request is merged and the change is reflected on the content of the site. The intention is that this pattern repeats itself which will make this site a living, changing and fully free/libre documentation for everyone wanting to enrich their user experiences in their respective projects.  
 
  
-[Get started now](/Study_findings){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/dani763f/FLOSSUX){: .btn .fs-5 .mb-4 .mb-md-0 }
+[Get started now](/FLOSSUX/Study_findings){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/dani763f/FLOSSUX){: .btn .fs-5 .mb-4 .mb-md-0 }
