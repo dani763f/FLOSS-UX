@@ -24,7 +24,7 @@ This format and the content on this page is built on a study of two FLOSS projec
 This page is intended as the "frontend" of the projects corresponding GitHub page. The process is designed to work as follows.
 1. Anyone can create a discussion suggesting a new addition to these pages. This can be commenting on what's already there, possible solutions or something else that the FLOSS practitioner in question finds relevant.
 2. The results or notions from the discussion are formulated into a pull request, proposing the change needed to the existing files or new files being created from the discussion
-3. The pull request is merged and the change is reflected on the content of the site. The intention is that this pattern repeats itself which will make this site a living, changing and fully free/libre documentation for everyone wanting to enrich their user experiences in their respective projects.  
+3. The pull request is merged and the change is reflected on the content of the site. The intention is that this pattern repeats itself which will make this site a living, changing and fully free/libre documentation for everyone wanting to enrich their user experiences in their respective projects.
 
  
 [Get started now](/FLOSSUX/Study_findings){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/dani763f/FLOSSUX){: .btn .fs-5 .mb-4 .mb-md-0 }

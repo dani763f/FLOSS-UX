@@ -1,12 +1,12 @@
 ---
 layout: default
-title: The Study
+title: Download the Study
 has_children: false
 parent: Study findings
-nav_order: 6
+nav_order: 5
 ---
 
-# The Study
+# Download the Study
 
 Below the full study can be downloaded and read. The study found that the academic format is not...
 
