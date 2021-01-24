@@ -19,7 +19,15 @@ The need to support FLOSS communities with these decisions has existed since the
  
 ## The Study
 This format and the content on this page is built on a study of two FLOSS projects that while vastly different in terms of size and goals have interesting similarities and serve as a great way to kick start discussions on the subject. Additionally, some of the findings from previous studies are also distilled into easily accessible considerations to avoid the barrier that is reading and understanding.  
- 
+
+
+## The Projects  
+
+![FLOSS Projects](images/projectlogos.png)  
+
+ 1. [Taskcafe](https://github.com/JordanKnott/taskcafe) is a self hosted project management tool. It uses the Kanban framework as its inspiration and allows the user to do task sorting and filtering, add colors and labels, due dates, assign members and manage checklists in a convenient setting.  
+ 2. [The Jellyfin project](https://jellyfin.org/) is a centralized media server solution that is available completely free as a volunteer-built media solution.
+
 ## How does it work?  
 This page is intended as the "frontend" of the projects corresponding GitHub page. The process is designed to work as follows.
 1. Anyone can create a discussion suggesting a new addition to these pages. This can be commenting on what's already there, possible solutions or something else that the FLOSS practitioner in question finds relevant.
