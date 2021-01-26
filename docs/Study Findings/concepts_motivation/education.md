@@ -7,4 +7,4 @@ grand_parent: Study findings
 nav_order: 4
 ---
 
-# User types in FLOSS
+# In-project education
