@@ -2,7 +2,7 @@
 layout: default
 title: Ideology and FLOSS Conviction
 has_children: false
-parent: Motivational factors in FLOSS
+parent: Motivational Factors in FLOSS
 grand_parent: Study findings
 nav_order: 1
 ---
@@ -22,13 +22,13 @@ FLOSS is often thought of as a very ideological entity, and while this is obviou
 
 The idea of mismatched incentives was touched upon by another Jellyfin contributor who argued that “(...) this whole war between open source software and closed source software is pointless: both of them can coexist perfectly.” (Interview, Jellyfin). This goes to show that the ideological lines are more blurred than one might assume. The idea of making money from software development is not then in itself in opposition to the FLOSS mentality. Rather, the worry is that financial incentives might become an assertive force in these projects. The Jellyfin core members have for instance taken a hard stance against FLOSS bounty sites to avoid these aforementioned mismatched incentives. And has gone as far as to contact said sites to remove any active bounties that involved Jellyfin. One interviewee argues that if contributors are financially driven   
 
-> “(...) at least in my view, I don't want the contributor because they're gonna say, hey, what can I do that maximizes my money rather than what helps the project” (Interview, Jellyfin).
+> *“(...) at least in my view, I don't want the contributor because they're gonna say, hey, what can I do that maximizes my money rather than what helps the project”* (Interview, Jellyfin).
 {: .fs-5 .fw-300 }
 
   In that sense the prevalent ideological mentality in the Jellyfin project is that financial incentives do not belong in FLOSS because it inevitably will damage the sense of community and the democracy of the project by favoring wealthy project members and external users and creating a lesser end product as a result.
 
   ---
-## Key Findings  
+## Key Findings
 <br/>
 * Most FLOSS contributors seem to be ideologically driven by the very nature of wanting to contribute to a FLOSS project.
 * Discussing financial incentives in your project early on seems to aid in streamlining a projects ideological goals.
