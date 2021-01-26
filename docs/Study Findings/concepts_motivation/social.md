@@ -9,6 +9,11 @@ nav_order: 2
 
 # Social Interaction as a Motivational Factor
 
+Project work inevitably requires social interaction of some kind. How social are FLOSS projects? The study found that thinking consciously about social interaction as a strong motivator in FLOSS benefits projects and largely does away with the notion that developers inherently develop only for their own gain.
+{: .fs-6 .fw-300 }
+
+---  
+
 In the study it was found that the social interaction that comes as a result of working closely together in a project is an important motivational factor in and of itself. This might not be considered the case initially, as social bonds takes time to build. However, it was argued by practically all of the contributors that participated in the study that social interaction has gone on to become one of their primary motivations for contributing and maintaining a FLOSS project. One contributor especially highlighted that he found it motivational to see the appraisal posts that often appear on reddit or other community outlets.
 
 > *“We receive a lot of feedback on Reddit with titles like "Just wanted to thank the Jellyfin devs for what they do". It might seem like something silly, but the fact that somebody is actually spending their time in making a thread just for saying nothing but ‘thank you’ means a lot. That's something very difficult to see in commercial projects."* (Interview, Jellyfin)
@@ -23,11 +28,14 @@ This statement supports the idea that the interactions that matter the most are 
 
 Social interaction is not always a motivational factor though. Several of the interviewees also brought forward the point that it often is a double edged sword. First of all as mentioned above scalability of these different interactions are important in this regard as well. A project can only take in so much feedback and after a certain point this information, be it negative or positive, will simply not be seen or considered. This is related to the fact that users of FLOSS projects come with different technical knowledge and backgrounds. One project member noted that he found feedback could be “(...) a bit annoying depending on how the feedback is made and the technical level of the user”. (Interview, Jellyfin).  
 
-> **He also argued that feedback for design often is subject** “(...) to suggestions of things that are impossible to make or that would be fairly terrible from a UI/UX standpoint, which we usually have to shut down or rework.”* (Interview, Jellyfin).
+> **He also argued that feedback for design often is subject** *“(...) to suggestions of things that are impossible to make or that would be fairly terrible from a UI/UX standpoint, which we usually have to shut down or rework.”* (Interview, Jellyfin).
 {: .fs-5 .fw-300 }
 
 This finding was also confirmed in Taskcafe, and it was noted how the feedback is nice but also that the upfront price of social interaction is more time spent on bug solving and communication which can be mentally draining in the end (Interview, Taskcafe). It would seem that given this ratio between the size of the external community and project member team stays roughly the same, it can be argued that social interaction in general also will result in more time spent on activities that might be resource sinks for the project. Even though this is the case both projects, both agreed that the benefits outweigh the cost as of right now, and that they believe feedback generally greatly improves the end products, and helps in identifying areas of change, issues and generating motivation to continue maintaining the project.
 
+---
+Discuss 
+{: .label .label-green .float-right }
 ## Key Findings
 <br/>
 * Social interaction, both between project members and community members are both extremely important for the longevity and continued motivation to engage and embetter FLOSS projects.

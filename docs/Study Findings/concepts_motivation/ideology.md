@@ -28,6 +28,8 @@ The idea of mismatched incentives was touched upon by another Jellyfin contribut
   In that sense the prevalent ideological mentality in the Jellyfin project is that financial incentives do not belong in FLOSS because it inevitably will damage the sense of community and the democracy of the project by favoring wealthy project members and external users and creating a lesser end product as a result.
 
   ---
+Discuss 
+{: .label .label-green .float-right }
 ## Key Findings
 <br/>
 * Most FLOSS contributors seem to be ideologically driven by the very nature of wanting to contribute to a FLOSS project.
