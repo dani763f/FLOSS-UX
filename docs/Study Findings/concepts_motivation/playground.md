@@ -29,6 +29,8 @@ Others noted that they had a lot of fun while “(...) contributing to Jellyfin 
 3) having fun doing so  
 These 3 things seem key to “the developer playground”, and might aid in understanding why design contributions might not as easily fit into this context. 
 
+![Jellyfin in numbers](/FLOSSUX/images/jellyfinnumbers.png) ![Taskcafe in numbers](/FLOSSUX/images/taskcafenumbers.png) 
+
 To further poke at this rather unique combination of elements, the contributors were asked about users numbers, as seen above, and whether or not they found those to be motivational, in and of itself.  Here one of the participants put it as follows:  
 
 > *"I find them motivational but I don't think it is the fuel that keeps me working on our project. We do this for fun, for the learning experience, because we use it. We have many reasons among the team”.*  
