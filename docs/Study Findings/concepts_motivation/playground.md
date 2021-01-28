@@ -23,13 +23,16 @@ Usually these first engagements with a project leads to more down the road.
 > **One developer said that he contributed in the beginning** *“(...) mostly out of personal needs. I was annoyed with some things at first, then it sort of evolved from there”* (interview, Jellyfin).  
 {: .fs-5 .fw-300 }
 
-Others noted that they had a lot of fun while “(...) contributing to Jellyfin and pushing my code in GitHub helped me realize that I wanted to go into software engineering." (interview #, Jellyfin). With the above in mind, it seems that a lot of the developers in the project are entering into FLOSS as,  
-1) a way to empower their own private use of the software 
-2) learning new skills
-3) having fun doing so  
-These 3 things seem key to “the developer playground”, and might aid in understanding why design contributions might not as easily fit into this context. 
+Others noted that they had a lot of fun while “(...) contributing to Jellyfin and pushing my code in GitHub helped me realize that I wanted to go into software engineering." (interview, Jellyfin). With the above in mind, it seems that a lot of the developers in the project are entering into FLOSS as,  
+1. **A way to empower their own private use of the software** 
+2. **Learning new skills**
+3. **Having fun while doing so**  
+<br/>
+These 3 things are key to “the developer playground”, and might aid in understanding why design contributions might not as easily fit into this context. 
 
-![Jellyfin in numbers](/FLOSSUX/images/jellyfinnumbers.png) ![Taskcafe in numbers](/FLOSSUX/images/taskcafenumbers.png) 
+![Jellyfin in numbers](/FLOSSUX/images/jellyfinnumbers.png) ![Taskcafe in numbers](/FLOSSUX/images/taskcafenumbers.png)  
+Jellyfin and Taskcafe in numbers
+{: .fs-3 .fw-300 .float-right}
 
 To further poke at this rather unique combination of elements, the contributors were asked about users numbers, as seen above, and whether or not they found those to be motivational, in and of itself.  Here one of the participants put it as follows:  
 
