@@ -32,7 +32,7 @@ These 3 things are key to “the developer playground”, and might aid in under
 
 ![Jellyfin in numbers](/FLOSSUX/images/jellyfinnumbers.png) ![Taskcafe in numbers](/FLOSSUX/images/taskcafenumbers.png)  
 Jellyfin and Taskcafe in numbers
-{: .fs-3 .fw-300 .float-right}
+{: .fs-3 .fw-300 }
 
 To further poke at this rather unique combination of elements, the contributors were asked about users numbers, as seen above, and whether or not they found those to be motivational, in and of itself.  Here one of the participants put it as follows:  
 
@@ -41,7 +41,7 @@ To further poke at this rather unique combination of elements, the contributors 
   
 To summarize, it would seem that developers' motivations in this regard are also very driven by the fact that FLOSS projects are a place that can support developer interests, give access to new knowledge while maintaining a no-commitment attitude towards the amount of work being done by each participant. This especially rings true when thinking about how software development in traditional organizations might be a solo activity as brought up by one of the backend developers of Jellyfin. This mindset also constitutes a departure from more traditional software development processes where software developers likely handle most of the execution and implementation, while the actual requirements for the software might come from a client, design team or some other organizational entity.  
 
-> **In other words,** *“(...) "the “blank slate’ is very exciting”* (Interview, Jellyfin).  
+> **In other words,** *“(...) the 'blank slate’ is very exciting”* (Interview, Jellyfin).  
 {: .fs-5 .fw-300 }
 
 With the above findings in mind it would seem to suggest that most of the contributors follow a similar pattern getting into FLOSS projects. First, a project is approached or even created to fulfill one's own needs, learn, for ideological reasons or to simply have fun. Then as more people join the project the sense of community, cooperation and the resulting social interactions or team that is created form stronger commitments to maintaining the project. The idea that certain people might leave at different stages is supported by for instance what one of the contributors from the interview said.  
@@ -63,4 +63,4 @@ Discuss
     2) However, on the other hand the developers seem to hold onto the fact that in the end are developing for themselves.
 * Raw user numbers are less motivational than having fun and learning.
     * This raises the question in wide user adoption is even a goal of FLOSS software. In any case it is a discussion worth having in your project. Are you trying to get a large user base? What motivates you?
-* Design seems to automatically be at a disadvantage in FLOSS as most who join FLOSS projects do so to fix, in code, some issue they themselves are dealing with. Design proposals are a totally different type of inquiry and often cannot be boiled down to a single button or 'fix'.
+* The design discipline seems to automatically be at a disadvantage in FLOSS as most who join FLOSS projects do so to fix, in code, some issue they themselves are dealing with. Design proposals are a totally different type of inquiry and often cannot be boiled down to a single button or 'fix'.
