@@ -9,8 +9,12 @@ nav_order: 3
 Missing formatting
 {: .label .label-red .float-right }
 # Knowledge Management and Platform Considerations
+Knowledge management is a challenge in any relatively large project, and especially in FLOSS where knowledge in many ways may make or break a project. How does the project communicate the available knowledge to the community? Is it visible what is needed at any given time? This in itself is a difficult task that is worthwhile to understand, also with a focus on design decisions.   
+{: .fs-6 .fw-300 }  
 
-As FLOSS projects receive and create large amounts of data such as discussion, feedback, bug reports and pull requests to name a few. How this data is stored, accessible and worked with determines a lot about what knowledge is available to the contributors in the project, and how effectively the team solves future problems. As this is a major consideration for how the project is managed several of the contributors in the projects had thoughts on the matter when asked.  
+---
+
+As FLOSS projects receive and create large amounts of data such as discussion, feedback, bug reports and pull requests to name a few, how this data is stored, accessible and worked with determines a lot about what knowledge is available to the contributors in the project, and how effectively the team solves future problems. As this is a major consideration for how the project is managed several of the contributors in the projects had thoughts on the matter when asked.  
 
 **Type/format of knowledge**|**Knowledge platform/location**|**Knowledge use and value**|**Potential knowledge management issues**
 :-----:|:-----:|:-----:|:-----:

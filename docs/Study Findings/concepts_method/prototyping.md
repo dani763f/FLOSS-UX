@@ -6,5 +6,10 @@ parent: Design methodology in FLOSS projects
 grand_parent: Study findings
 nav_order: 3
 ---
-
+Missing content, requres image formatting
+{: .label .label-red .float-right }
 # Iterational work and prototyping
+Introduction here
+{: .fs-6 .fw-300 }
+---
+

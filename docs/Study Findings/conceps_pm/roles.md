@@ -8,6 +8,9 @@ nav_order: 1
 ---
 
 # Roles and skill sets in FLOSS projects
+Who are the people engaging in FLOSS? What are their background? Does the fact that mostly developers engage in FLOSS impact design decisions? The findings from the study indicate that while developers have a relatively advanced understanding of design principles, in many cases without realizing it, there is still room for improvement. 
+{: .fs-6 .fw-300 } 
+---
 
 From the interviews with the two projects it was immediately clear that all of the contributors were developers or at very least technically inclined. Their core competencies vary, however all either work with code related jobs, education or are self taught individuals with interest in the technologies involved with creating software. One such example is a participant who specializes  
 
@@ -26,7 +29,7 @@ One of the interview participants from Jellyfin holds an interesting role that a
 
 According to him the role of project manager is a nebulous term in the day to day activities. He does not do much in the way of code however he *“(...) watch what other contributors are doing with an eye towards kind of keeping the project moving towards like the goal of, you know, being better”* (Interview, Jellyfin). He also manages more actively when the project is nearing a release, where he looks at the existing and new features nearing completion, and as time passes take a more active role in encouraging certain features to be finalized and made ready for inclusion in the stable release candidate (interview, Jellyfin). With that in mind he also manages when feature freeze falls in the process, and whatever testing comes after. He however, also states that he holds no real power in the sense that he can mandate what project contributors chose to work on. In a similar sense he does not get to reject changes based on his judgement of their importance. He verifies that he is subject to the back-and-forth discussion process in that if he likes a given change  
 
-> *“(...) "it will get my check mark or if I don't like the change, I'll put my feedback in."* (interview, Jellyfin).
+> *“(...) it will get my check mark or if I don't like the change, I'll put my feedback in."* (interview, Jellyfin).
 {: .fs-5 .fw-300 }
 
  In summary, it is clear that the Jellyfin or Taskcafe projects currently do not have anyone doing design contributions that professionally work with such changes.
