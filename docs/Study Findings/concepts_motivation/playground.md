@@ -10,7 +10,7 @@ nav_order: 5
 # The Developer Playground
 
 FLOSS projects constitute a very unique opportunity for developers especially. It embodies an environment where one can have fun, learn and create quality of life improvements to a piece of software that is being used in their everyday life. This however, puts design contributions in a tough spot in certain ways and is in many ways at the core of the complexity of this issue. How do FLOSS projects maintain this environment while creating better design decisions?
-{: .fs-6 .fw-300 }
+{: .fs-5 .fw-300 }
 ---
 
 One of the motivational factors that was discovered in the interviews i have called “the developer playground”. Several of the contributors noted that they mainly were driven by fixing issues they themselves had with the product.  

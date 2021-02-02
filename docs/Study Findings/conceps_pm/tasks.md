@@ -8,3 +8,5 @@ nav_order: 2
 ---
 
 # Current resource intensive tasks and goals
+Change title
+{: .label .label-red .float-right }
