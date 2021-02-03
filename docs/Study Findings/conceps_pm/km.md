@@ -2,7 +2,7 @@
 layout: default
 title: Knowledge Management and Platform Considerations	
 has_children: false
-parent: Resource and Project Management in FLOSS
+parent: Resource and Project Management
 grand_parent: Study findings
 nav_order: 3
 ---

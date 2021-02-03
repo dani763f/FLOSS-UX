@@ -2,7 +2,7 @@
 layout: default
 title: In-Project Education
 has_children: false
-parent: Motivational Factors in FLOSS
+parent: Motivational Factors
 grand_parent: Study findings
 nav_order: 4
 ---

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Motivational Factors in FLOSS
+title: Motivational Factors
 has_children: true
 parent: Study findings
 nav_order: 1

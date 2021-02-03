@@ -2,7 +2,7 @@
 layout: default
 title: Current resource intensive tasks and goals
 has_children: false
-parent: Resource and Project Management in FLOSS
+parent: Resource and Project Management
 grand_parent: Study findings
 nav_order: 2
 ---

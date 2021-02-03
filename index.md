@@ -5,7 +5,7 @@ nav_order: 1
 description: "This page is about creating stronger UX and design considerations in FLOSS projects"
 permalink: /
 ---
-# Design in FLOSS projects
+# Design in FLOSS Projects
  
 This project is dedicated to **improving, educating and creating discussion** for the benefit of everyone interested in software that resides in the realm of Free/Libre and Open Source Software (FLOSS). What does it take to create user experiences that rival proprietary software with huge budgets and design teams? Let's figure it out as a community, through discussion and cooperation!
 {: .fs-6 .fw-300 }

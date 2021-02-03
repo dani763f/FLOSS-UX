@@ -2,7 +2,7 @@
 layout: default
 title: Feedback mechanisms and testing in the projects
 has_children: false
-parent: Design methodology in FLOSS projects
+parent: Design Methodology
 grand_parent: Study findings
 nav_order: 2
 ---

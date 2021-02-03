@@ -2,7 +2,7 @@
 layout: default
 title: Barriers for design according to developers
 has_children: false
-parent: Perception of design in FLOSS projects
+parent: Perception of Design
 grand_parent: Study findings
 nav_order: 1
 ---

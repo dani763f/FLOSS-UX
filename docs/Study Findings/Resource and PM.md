@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Resource and Project Management in FLOSS
+title: Resource and Project Management
 has_children: true
 parent: Study findings
 nav_order: 2

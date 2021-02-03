@@ -2,7 +2,7 @@
 layout: default
 title: Iterational work and prototyping
 has_children: false
-parent: Design methodology in FLOSS projects
+parent: Design Methodology
 grand_parent: Study findings
 nav_order: 3
 ---

@@ -2,7 +2,7 @@
 layout: default
 title: The Developer Playground
 has_children: false
-parent: Motivational Factors in FLOSS
+parent: Motivational Factors
 grand_parent: Study findings
 nav_order: 5
 ---
