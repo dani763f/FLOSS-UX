@@ -37,7 +37,7 @@ According to him the role of project manager is a nebulous term in the day to da
 ---
 Discuss 
 {: .label .label-green .float-right }
-## Key Findings
+## Summary
 <br/>
 * Most contributors in FLOSS projects come from a highly technical background. Even those who might be familiar with design principles are mostly familiar with frontend development, and not necessarily design theory per say.  
     * This by its very nature puts design and concepts such as user experience at the bottom of priorities in FLOSS projects.

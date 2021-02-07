@@ -36,7 +36,7 @@ This finding was also confirmed in Taskcafe, and it was noted how the feedback i
 ---
 Discuss 
 {: .label .label-green .float-right }
-## Key Findings
+## Summary
 <br/>
 * Social interaction, both between project members and community members are both extremely important for the longevity and continued motivation to engage and embetter FLOSS projects.
 * Social interaction, while motivation can be a double edged sword by requiring large amounts of time spent on activities other than developing or designing features in the project.

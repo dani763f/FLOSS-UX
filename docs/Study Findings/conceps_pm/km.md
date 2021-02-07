@@ -47,6 +47,6 @@ Interestingly, the Taskcafe project has done something similar in spite of its s
 ---
 Discuss 
 {: .label .label-green .float-right }
-## Key Findings
+## Summary
 <br/>
 *

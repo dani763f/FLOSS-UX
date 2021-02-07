@@ -30,7 +30,7 @@ The idea of mismatched incentives was touched upon by another Jellyfin contribut
   ---
 Discuss 
 {: .label .label-green .float-right }
-## Key Findings
+## Summary
 <br/>
 * Most FLOSS contributors seem to be ideologically driven by the very nature of wanting to contribute to a FLOSS project.
 * Discussing financial incentives in your project early on seems to aid in streamlining a projects ideological goals.

@@ -56,7 +56,7 @@ To summarize, it would seem that while a lot of the developers do voice their op
 ---
 Discuss 
 {: .label .label-green .float-right }
-## Key Findings
+## Summary
 <br/>
 * There is a sort of duality in what developers say drive them to maintain FLOSS projects. 
     1) On one hand, developing for people and receiving appraisal and positive experiences seem to be very important as also suggested by previous studies. 

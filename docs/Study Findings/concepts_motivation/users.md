@@ -44,7 +44,7 @@ The most prevalent user type to emerge from the findings is the passive user.
 
  Discuss 
 {: .label .label-green .float-right }
-## Key Findings
+## Summary
 <br/>
 * Considering what users your project caters too is the first step in understanding what your project needs to address or focus on.
     * This largely involves doing some user research, and at the very least deciding if a goal of the project is wide user adoption or to focus on specific power users.

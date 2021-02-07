@@ -29,7 +29,7 @@ This is also touched upon when a contributor said that he “get[s] a lot of hel
 ---
 Discuss 
 {: .label .label-green .float-right }
-## Key Findings
+## Summary
 <br/>
 * Make time for in-project education between community members, project members and the like.
     * It is not only important to align a project towards its common goal, it is also motivational to learn and have good experiences doing so.
