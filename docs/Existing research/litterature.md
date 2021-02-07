@@ -2,12 +2,12 @@
 layout: default
 title: Reference list
 nav_order: 2
-parent: Existing research
+parent: Additional HCI Research
 description: "The list of litterature in the study"
 ---
 
 # References
-This is a list of the studies used to inform the exisisting research and inspire the efforts found in "Study findings".
+This is a list of the studies used to inform the existing research and inspire the efforts found in "Study findings".
 {: .fs-6 .fw-300 }
 
 

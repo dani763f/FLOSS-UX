@@ -14,7 +14,7 @@ This project is dedicated to **improving, educating and creating discussion** fo
  
 ## Why this project?
 **Design work in FLOSS is a unique problem**. Design activities take a lot of time and require unique skills. This becomes a problem when most of the people in FLOSS are developers who don't always have the necessary education, interest or resources to support design activities.
-The need to support FLOSS communities with these decisions has existed since the inception of FLOSS and in some ways even before that [(Norman, 1981)](https://www.researchgate.net/publication/202165676_The_trouble_with_UNIX_The_user_interface_is_horrid). Since then the notion that FLOSS software is hard to use and developed for power users has existed and still thrive to this day. This seems to hint at the fact that this issue is harder to tackle than one might assume, and that it requires a lot of discussion and recontextualization of mindsets in these communities that are creating extremely powerful software that is available to everyone around the world.  
+The need to support FLOSS communities with these decisions has existed since the inception of FLOSS and in some ways even before that [(Norman, 1981)](https://www.researchgate.net/publication/202165676_The_trouble_with_UNIX_The_user_interface_is_horrid). Since then the notion that FLOSS software is hard to use and developed for power users has existed and still thrive to this day. This seems to hint at the fact that this issue is harder to tackle than one might assume, and that it requires a lot of discussion and recontextualisation of mindsets in these communities that are creating extremely powerful software that is available freely to everyone around the world.  
  
  
 ## The Study

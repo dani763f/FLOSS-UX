@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Existing research
+title: Additional HCI Research
 has_children: true
-nav_order: 3
+nav_order: 4
 ---
 
-# Existing FLOSS Research
+# Additional HCI Research

@@ -3,7 +3,7 @@ layout: default
 title: Project terminology & external knowledge gathering
 has_children: false
 parent: Perception of Design
-grand_parent: Study findings
+grand_parent: Expanded Study Findings
 nav_order: 2
 ---
 Missing formatting

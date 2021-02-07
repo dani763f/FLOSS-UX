@@ -3,7 +3,7 @@ layout: default
 title: Barriers for design according to developers
 has_children: false
 parent: Perception of Design
-grand_parent: Study findings
+grand_parent: Expanded Study Findings
 nav_order: 1
 ---
 Missing formatting

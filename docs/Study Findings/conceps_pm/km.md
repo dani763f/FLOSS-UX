@@ -3,7 +3,7 @@ layout: default
 title: Knowledge Management and Platform Considerations	
 has_children: false
 parent: Resource and Project Management
-grand_parent: Study findings
+grand_parent: Expanded Study Findings
 nav_order: 3
 ---
 Missing formatting

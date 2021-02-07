@@ -2,7 +2,7 @@
 layout: default
 title: Download the Study
 has_children: false
-parent: Study findings
+parent: Expanded Study Findings
 nav_order: 5
 ---
 

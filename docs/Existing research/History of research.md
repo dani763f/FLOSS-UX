@@ -1,8 +1,8 @@
 ---
 layout: default
-title: History of research
+title: Historical Account of Studies
 has_children: false
-parent: Existing research
+parent: Additional HCI Research
 nav_order: 1
 ---
 

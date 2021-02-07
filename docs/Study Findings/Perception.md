@@ -2,7 +2,7 @@
 layout: default
 title: Perception of Design
 has_children: true
-parent: Study findings
+parent: Expanded Study Findings
 nav_order: 3
 ---
 # Perception of Design in FLOSS projects

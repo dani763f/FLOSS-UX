@@ -3,7 +3,7 @@ layout: default
 title: Democracy and consensus in FLOSS projects
 has_children: false
 parent: Design Methodology
-grand_parent: Study findings
+grand_parent: Expanded Study Findings
 nav_order: 1
 ---
 Missing formatting and introduction

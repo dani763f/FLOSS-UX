@@ -3,7 +3,7 @@ layout: default
 title: The Developer Playground
 has_children: false
 parent: Motivational Factors
-grand_parent: Study findings
+grand_parent: Expanded Study Findings
 nav_order: 5
 ---
 

@@ -3,7 +3,7 @@ layout: default
 title: Iterational work and prototyping
 has_children: false
 parent: Design Methodology
-grand_parent: Study findings
+grand_parent: Expanded Study Findings
 nav_order: 3
 ---
 Missing content, requres image formatting

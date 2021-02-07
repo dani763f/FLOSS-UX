@@ -2,7 +2,7 @@
 layout: default
 title: Motivational Factors
 has_children: true
-parent: Study findings
+parent: Expanded Study Findings
 nav_order: 1
 ---
 

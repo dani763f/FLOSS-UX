@@ -3,7 +3,7 @@ layout: default
 title: Subjectivity and design in FOSS projects
 has_children: false
 parent: Perception of Design
-grand_parent: Study findings
+grand_parent: Expanded Study Findings
 nav_order: 3
 ---
 Missing formatting

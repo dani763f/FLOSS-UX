@@ -3,7 +3,7 @@ layout: default
 title: Feedback mechanisms and testing in the projects
 has_children: false
 parent: Design Methodology
-grand_parent: Study findings
+grand_parent: Expanded Study Findings
 nav_order: 2
 ---
 Missing formatting and introduction

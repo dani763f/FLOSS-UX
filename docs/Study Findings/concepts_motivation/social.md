@@ -3,7 +3,7 @@ layout: default
 title: Social Interaction as a Motivational Factor
 has_children: false
 parent: Motivational Factors
-grand_parent: Study findings
+grand_parent: Expanded Study Findings
 nav_order: 2
 ---
 

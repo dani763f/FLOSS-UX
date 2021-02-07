@@ -3,7 +3,7 @@ layout: default
 title: Complexity of design in FOSS projects
 has_children: false
 parent: Design Methodology
-grand_parent: Study findings
+grand_parent: Expanded Study Findings
 nav_order: 4
 ---
 Missing formatting and introduction
