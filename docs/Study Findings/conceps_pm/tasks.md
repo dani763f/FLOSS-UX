@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Current resource intensive tasks and goals
+title: Project History and Aligning Goals
 has_children: false
 parent: Resource and Project Management
 grand_parent: Expanded Study Findings
 nav_order: 2
 ---
 
-# Current resource intensive tasks and goals
+# Project History and Aligning Goals
 Change title
 {: .label .label-red .float-right }
 
