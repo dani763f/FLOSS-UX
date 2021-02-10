@@ -3,6 +3,7 @@ layout: default
 title: Key Findings Overview
 nav_order: 2
 description: "This page describes the key findings of the study"
+permalink: /keyfindings
 ---
 Topics for Discussion 
 {: .label .label-green .float-right }
