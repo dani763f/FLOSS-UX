@@ -15,3 +15,10 @@ Another consideration that emerged from the findings was that a project's histor
 Taskcafe which is a completely new project does not suffer from this, and has as a product never been in the maintenance and repair phase that Jellyfin is facing. This finding seems to verify the importance of having discussions about the choice of legacy code, and it's inevitable impact on how easy it is for new contributors to join the project and for adding new features. This especially rings true for design contributions that might not necessarily contemplate the situation in the underlying code, and as a result might be considered a change too difficult to implement or consider. With the above in mind it can be seen how the founder of Taskcafe has the freedom to completely overhaul the user interface between releases as a product of iteration. When asked what exactly had changed, the developer from Taskcafe said that “The entire app ‘shell’ has changed from the original design” (Interview #3, Taskcafe).
 
 In summary, it would seem that whether or not a project is a fork of another project determines the need for good documentation as for instance Jellyfin focused on by documenting the API (Interview #2, Jellyfin). Without the necessary documentation and understanding of the inherited code, getting support from new contributors is increasingly more difficult as a lot of time has to be spent reverse engineering the code base. In addition, any possible design contributions or discussions had in a project state where general maintenance is the current goal will likely impose on what is currently possible with regards to the backend.
+
+---
+Discuss 
+{: .label .label-green .float-right }
+## Summary
+<br/>
+*
