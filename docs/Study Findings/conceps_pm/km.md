@@ -28,7 +28,7 @@ Table - Source of knowledge in the projects, the challenges involved and their i
 
 A portion of these findings were specifically tied to the characteristics of the various platforms used in the project. One contributor said that “We try to avoid long pieces of feedback in chats like the Matrix rooms, because we'd like it to be archived somewhere for future references.” (Interview #1, Jellyfin). The idea of information being lost in Matrix is confirmed in that Matrix is not always as easy to search through as for instance Github.  
 
-![Known issues example](/FLOSSUX/images/knownissues.png)  
+![Known issues example](/FLOSS-UX/images/knownissues.png)  
 
 Example of the “Known issues” pinned issue
 {: .fs-3 .fw-300 }
@@ -37,7 +37,7 @@ To take feedback and troubleshooting as an example, on Github the troubleshootin
 
 With regards to Github certain things have been done to try and mitigate these issues of knowledge getting lost or being unstandardized. First and foremost issue templates are being used to standardize the required information to create an issue. Secondly, the use of the platform Fider has been made the default way to handle feature requests in Jellyfin “(...) mostly just because of the upvote system that Fider gave us as well as to try to avoid a very major, like backlog of feature requests in our issues board." (Interview #7, Jellyfin. Lastly, the new addition of “Github discussions” has been implemented into the Jellyfin project.  
 
-![Discussion in Jellyfin-vue](/FLOSSUX/images/discussionsvue.png)  
+![Discussion in Jellyfin-vue](/FLOSS-UX/images/discussionsvue.png)  
 The discussions feature on GitHub in use in Jellyfin-Vue  
 {: .fs-3 .fw-300 }
 

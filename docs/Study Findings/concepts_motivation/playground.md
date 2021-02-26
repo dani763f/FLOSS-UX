@@ -30,7 +30,7 @@ Others noted that they had a lot of fun while “(...) contributing to Jellyfin 
 <br/>
 These 3 things are key to “the developer playground”, and might aid in understanding why design contributions might not as easily fit into this context. 
 
-![Jellyfin in numbers](/FLOSSUX/images/jellyfinnumbers.png) ![Taskcafe in numbers](/FLOSSUX/images/taskcafenumbers.png)  
+![Jellyfin in numbers](/FLOSS-UX/images/jellyfinnumbers.png) ![Taskcafe in numbers](/FLOSS-UX/images/taskcafenumbers.png)  
 Jellyfin and Taskcafe in numbers
 {: .fs-3 .fw-300 }
 
