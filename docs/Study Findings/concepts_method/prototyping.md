@@ -14,7 +14,7 @@ Introduction here
 
 ---
 
-With regards to how these projects handle reiteration and prototyping, various methods have been discovered in the two projects. While the projects largely make it seem like there are no structured prototyping methods in place, and that no agreed upon methodology is in use with regards to for instance mockups some structured activities do already take place. Firstly, Jellyfin’s primary way of informing design decisions seems to be by using existing design as inspirational material. This way of informing design was also mentioned by the developer from Taskcafe when he said that he “(...) research the different way others have designed similar components” (Interview #3, Taskcafe). The way this is structured in Jellyfin is mostly by using pinned issues that contain a large amount of inspirational material such as screenshots or video examples from popular media platforms such as Netflix, Disney+ or Amazon Prime.  
+With regards to how these projects handle reiteration and prototyping, some structure have been discovered in the two projects. While the projects largely make it seem like there are no structured prototyping methods in place, and that no agreed upon methodology is in use with regards to for instance mockups some structured activities do already take place. Jellyfin’s primary way of informing design decisions seems to be by using existing design as inspirational material. This way of informing design was also mentioned by the developer from Taskcafe when he said that he “(...) research the different way others have designed similar components” (Interview #3, Taskcafe). The way this is structured in Jellyfin is mostly by using pinned issues that contain a large amount of inspirational material such as screenshots or video examples from popular media platforms such as Netflix, Disney+ or Amazon Prime.  
 
 ![Design references](/FLOSSUX/images/prototype_examples.png)  
 
@@ -34,4 +34,6 @@ Discuss
 {: .label .label-green .float-right }
 ## Summary
 <br/>
-*
+* Developers are quick to discount their own inititives when it comes to prototypes and the testing of them.
+* The most used methodology that spans both of the surveyed projects, is using and compiling inspiration from established proprietary or FLOSS solutions that serve a similar purpose.
+* Most of the current ways of gathering inspiration relies on using GitHub functionality in unintended ways.  

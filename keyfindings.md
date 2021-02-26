@@ -8,13 +8,13 @@ permalink: /key_findings
 Topics for Discussion 
 {: .label .label-green .float-right }
 # Key Findings Overview  
-Foreword goes here
+What are the findings that FLOSS participants needs to discuss with regards to creating stronger UX design? This page seeks to present it, in as little text as possible.
 {: .fs-6 .fw-300 }
 ----
 
-# Introduction
+# What is this page?
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus at lorem vel dolor hendrerit feugiat et in orci. Fusce ligula velit, pulvinar nec ex volutpat, dignissim tristique mi. Mauris non urna vitae urna fringilla rutrum. Cras imperdiet metus quis nisi vehicula venenatis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non ligula ac metus imperdiet bibendum et a mauris. Praesent at scelerisque tortor. Suspendisse non tincidunt dolor. Morbi vitae quam tempor ex dignissim ullamcorper sed at massa. Morbi aliquet id risus ut tincidunt. Fusce molestie quis diam eu placerat. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nullam euismod eget nisi et fringilla. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; In id vulputate nisi. Vestibulum mollis ultrices nisi, non porta velit tristique vitae.
+This page tries to summarize the findings of the study into concise points that can be referenced in potential discussions. Each of these 4 categories and more in depth reasoning behind these points can be found in the expanded study findings section of the site.  
 
 # **The 4 Primary Findings**
 > What do we need to discuss in FLOSS communities?  
@@ -24,7 +24,7 @@ In the study of the two FLOSS projects Jellyfin and Taskcafe, **4 primary catego
 
 ---
 
-## Motivational Factors in FLOSS
+## 1. Motivational Factors in FLOSS
 
 ### Ideology and FLOSS conviction  
 * Most FLOSS contributors seem to be ideologically driven by the very nature of wanting to contribute to a FLOSS project.
@@ -43,7 +43,7 @@ In the study of the two FLOSS projects Jellyfin and Taskcafe, **4 primary catego
 * Considering what users your project caters too is the first step in understanding what your project needs to address or focus on.
     * This largely involves doing some user research, and at the very least deciding if a goal of the project is wide user adoption or to focus on specific power users.
 * Almost all users in FLOSS projects are passive.
-* Projects need to value their core users and invite them to join your respective project, not only focusing on code contributions. Invite to discussion surrounding project management, design or documentation, whatever the project needs.  
+* Projects need to value their core users and invite them to join your efforts, not only focusing on code contributions. Invite to discussion surrounding project management, design or documentation. Whatever the project needs.  
 
 ### In-project education  
 * Make time for in-project education between community members, project members and the like.
@@ -55,15 +55,15 @@ In the study of the two FLOSS projects Jellyfin and Taskcafe, **4 primary catego
 ### 'The developer playground'
 * There is a sort of duality in what developers say drive them to maintain FLOSS projects.  
     1. On one hand, developing for people and receiving appraisal and positive experiences seem to be very important as also suggested by previous studies. 
-    2. However, on the other hand the developers seem to hold onto the fact that in the end they are developing primarily for themselves.
-* Raw user numbers are less motivational than having fun and learning.
+    2. On the other hand the developers seem to hold onto the fact that in the end they are developing primarily for themselves.
+* Raw user numbers are less motivational than having fun and learning while having more naunced interaction with your co-contributors or users.
     * This raises the question if user adoption is even a goal of FLOSS software. In any case it is a discussion worth having in your project. Are you trying to get a large user base? What motivates you?
-    * This is also affected by the project specifics. Some software is inherently more specialized than others (the Blender project is for instance a very specialized piece of software, which drastically changes their UX considerations)
+    * This is also affected by the project specifics. Some software is inherently more specialized than others (for example, the Blender project is a very specialized piece of software, which drastically changes their UX considerations)
 * The design discipline seems to automatically be at a disadvantage in FLOSS as most who join FLOSS projects do so to fix, in code, some issue they themselves are dealing with. Design proposals are a totally different type of inquiry and often cannot be boiled down to a single button or 'fix'.  
 
 ---
 
-## Resource and Project Management  
+## 2. Resource and Project Management  
 
 
 ### Roles and skill sets  
@@ -73,10 +73,10 @@ In the study of the two FLOSS projects Jellyfin and Taskcafe, **4 primary catego
     * In your project, consider what type of contributions might be helpful. What might free up the time of developers to let them focus on their unique skill set?
     * This opens up interesting discussions about how FLOSS projects needs a balance between efficiency in some cases, and having fun in your free time in others.
 * This might also suggest that people with unique skill sets such as design professionals, managers or otherwise needs to be invited, and seek out FLOSS projects more.
-    * In addition to this their efforts, or rather how their efforts are perceived by projects members, needs to be more inclusive to allow for contributions that might be higher level than raw code.  
+    * In addition to this their efforts, or rather how their efforts are perceived by projects members, needs to be more inclusive to allow for contributions that might be less tangible than code.  
 
 ### Project history and aligning goals  
-* a project’s history will affect its resource allocation and focus, especially in what could be considered the early life of the project.
+* A project’s history will affect its resource allocation and focus, especially in what could be considered the early life of the project.
 * The study found that developers will have to consider the impact of forking a project, as a lot of resource goes into documenting a forked project.
     * This will impact design decision making and a project ability to define or differentiate itself in the begging of the project.
 * Not only code is inherited. Prior design decisions are also brought into a new project, which might limit the contributors ability or rethink the interface with a fresh set of eyes.
@@ -96,20 +96,20 @@ In the study of the two FLOSS projects Jellyfin and Taskcafe, **4 primary catego
 
 ---
 
-## Perception of Design  
+## 3. Perception of Design  
 
 ### Barriers for design according to developers  
-* Developers though design is very important yet that it takes a low priority for a lot of projects, unfortunately (Talking FLOSS in general, here)
+* Developers agreed that design, while very important, takes a low priority for a lot of projects.
     * Some developers that were more removed from the frontend did not think about design at all. Rather, they considered, for instance, API calls as 'their" design.
 * One way to solve this is to ensure that more developers take up an interest in UX. Or Perhaps stress the importance of getting some UX concepts when training developers.
-    * This depends completely on the person and their motivation.
+
 * Unanimously the developers marked high code quality as the most important quality in a project.
-    * This somewhat conflicts by their high motivation of developing for others.
+    * This somewhat conflicts with their high motivation of developing for others, as end users likely care more about their perceived experience than super optimized code, within reason.
 * In the projects, features are not planned with for instance usability in mind.
 * When talking about design and user experience particularly, the boundary between backend and frontend is somewhat blurred as a slow backend will create a horrible user interface.
     * This illustrates how UX is different from UI in a pretty major way. What makes your software *feel* good to use?
 * Developers had some connotations towards designers that while important, they did not want a traditional development approach where they "have to do" what is being made by a design team (as mentioned in 'the developer playground')
-* Some developer could not really see how the project could benefit from dedicated UX contributors.
+* Some developers could not really see how the project could benefit from dedicated UX contributors.
     * This very much falls on the designers plate, as more designer have to join and deliver something of value to projects to exemplify how such a contribution could look.
 
 
@@ -117,44 +117,48 @@ In the study of the two FLOSS projects Jellyfin and Taskcafe, **4 primary catego
 * Developers had a relatively strong understanding of design and mentioned concepts such as usability, accessibility and user experience as a natural part of the interviews.
     * In relation to this its pretty obvious that most of the developers discount their own initiatives simply because they are not familiar with UX methodology and terminology.
 * Human interface guidelines were used by many of the developers in the projects, not as a 1:1 inspiration but as a general nudge in the right direction when they had doubts.
-* There was no shared terminology in the projects, and each participant had slightly different understandings of UX concepts and when they matter.  
+* There was no shared terminology in the projects, and each participant had slightly different understandings of UX concepts and why and when they matter.  
 
 ### Subjectivity and design  
 * subjectivity does play a role in design decisions
 * Some internal problems and discussions had taken place in the Jellyfin project, namely as a product of subjective opinions on design decisions.
     * With the above section in mind, it would seem that shared terminology and human interface guidelines could help address such discussions and serve as an authoritative diciding factor in discussions.
-* While the developers had a relatively advanced understanding of UX concepts it seems that most decisions are still made on instinct and inspiration rather than traditional UX approaches.  
+* While the developers had a relatively advanced understanding of UX concepts it seems that most decisions are still made on instinct and inspiration rather than traditional UX approaches, which are more methodological in nature.  
 
-## Design Methodology  
+---
+
+## 4. Design Methodology  
 
 ### Democracy and consensus  
 * The general consensus is that FLOSS projects are mostly democratic
     * A majority rules mindset is used, even though opposition can overtake if the proposed idea is better
-* However, with the first point in mind, it seems that FLOSS projects are not in fact democratic. Rather they are meritocratic, based in merit.
-    * One developer called this the "do-ocracy", which in and of itself describes it very well
+* However, with the first point in mind, it seems that FLOSS projects are not in fact democratic. Rather they are **meritocratic**, based in merit.
+    * One developer called this the "do-ocracy", which in and of itself describes it very well.
     * This puts pure design contributions at a bit of an disadvantage. If deciding power is based on merit, namely code in the FLOSS context, then design contributions are by their very nature a lot harder to argue for.
     * This is very much established in previous studies, namely that certain gate keeping tactics might be the indirect result of the meritocracy.
-* The people in FLOSS projects, and designers for that matter, must consider this and consider their own bias against non-code initiatives.  
+    * The people in FLOSS projects, and designers for that matter, must consider this and consider their own bias against non-code initiatives.  
 
 ### Feedback mechanisms and testing  
 * No formal testing was being done in the projects.
 * However, after some initial discussion on the topic some findings did suggest that testing is going on, just not in an organized manner.
 * Feedback is mostly internal, through developers running the bleeding-edge of their software.
 * Core users are active here, and vigilantly report bugs.
-* In very rare cases external help has been utilized, for instance from colleagues.
+* In very rare cases external help has been utilized, for instance from colleagues or friends.
     * This, apart from the obvious bias that might occur when getting feedback from friends, is very much a UX concept in its most basic form.
-* Social media platforms were used to invite users to test
+* Social media platforms were used to invite users to test.
 
 
 ### Iterations and prototyping  
-* Add summary here  
+* Developers are quick to discount their own initiatives when it comes to prototypes and the testing of them.
+* The most used methodology that spans both of the surveyed projects, is using and stockpiling inspiration from established proprietary or FLOSS solutions that serve a similar purpose.
+* Most of the current ways of gathering inspiration relies on using GitHub functionality in unintended ways.  
 
 ### Complexity of design
 * Design problems are harder to report and 'fix' as they might not be limited to a single silo of code.
 * The projects has a very solution based mindset, and design issues are often by their very nature slower and require analysis and rigorous testing.
 * A worthwhile exercise would be, as already mentioned by project members, to increase the amount of discussions being had surrounding design in general.
-    * This has already started in, for example, jellyfin-vue repository but has yet to spread to the rest of the repositories and largely FLOSS in general.
+    * This has already started in, for example, the jellyfin-vue repository but has yet to spread to the rest of the repositories and largely FLOSS in general.
     * Talking more about design decisions, and planning with them in mind is also bound to push the agenda a little more in that direction.
-* As also argued by this page, what needs to be discussed are more of the UX specific, high level ideas and approaches to design. Many of the modern frameworks abstract away the need to think about padding, margins and the low level UI specific tasks.
+* As also argued by this page, what needs to be discussed are more of the UX specific, high level ideas and approaches to design. Many of the modern frameworks abstract away the need to think about padding, margins and the low level UI specific details.
 
 
