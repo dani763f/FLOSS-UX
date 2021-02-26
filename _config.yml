@@ -23,7 +23,7 @@ email: djdanielvalentin@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   A project trying to enrich user experiences in FLOSS projects through discussion and collaboration.
  
-baseurl: "/FLOSSUX" # the subpath of your site, e.g. /blog
+baseurl: "/FLOSS-UX" # the subpath of your site, e.g. /blog
 url: "https://dani763f.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  dani763f

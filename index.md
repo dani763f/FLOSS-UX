@@ -26,7 +26,7 @@ This format and the content on this page is built on a study of two FLOSS projec
 
 ## The Projects  
 
-![The Projects](/FLOSSUX/images/projectlogos.png)
+![The Projects](~/FLOSSUX/FLOSSUX/images/projectlogos.png)
 
  1. [Taskcafe](https://github.com/JordanKnott/taskcafe) is a self hosted project management tool. It uses the Kanban framework as its inspiration and allows the user to do task sorting and filtering, add colors and labels, due dates, assign members and manage checklists in a convenient setting.  
  2. [The Jellyfin project](https://jellyfin.org/) is a centralized media server solution that is available completely free as a volunteer-built media solution.
@@ -38,4 +38,4 @@ This page is intended as the 'frontend' of the projects corresponding GitHub pag
 3. The pull request is merged and the change is reflected on the content of the site. The intention is that this pattern repeats itself which will make this site a living, changing and fully free/libre documentation for everyone wanting to enrich their user experiences in their respective projects.
 
  
-[Get started now](/FLOSSUX/key_findings){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/dani763f/FLOSSUX){: .btn .fs-5 .mb-4 .mb-md-0 }
+[Get started now](/FLOSS_UX/key_findings){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/dani763f/FLOSS-UX){: .btn .fs-5 .mb-4 .mb-md-0 }
