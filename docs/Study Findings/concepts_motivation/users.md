@@ -36,7 +36,7 @@ The most prevalent user type to emerge from the findings is the passive user.
 
  These users are simply people who use the product without contributing or engaging in any of the social interaction. This suggests that a lot of people are not providing any actual feedback or opinion into the project. This finding especially makes sense when looking at some of the impressive numbers that can be found when searching for Jellyfin or Taskcafe such as docker pulls. Below a model of this system of users types can be found.
 
- ![User model](/FLOSSUX/images/usertypes.png)  
+ ![User model](/FLOSS-UX/images/usertypes.png)  
  Terry, M. A., Kay, M., & Lafreniere, B. J. (2010). Perceptions and practices of usability in the free/open source software (FoSS) community. CHI. [https://doi.org/10.1145/1753326.1753476](https://doi.org/10.1145/1753326.1753476)  
  {: .fs-3 .fw-300 }  
 
