@@ -85,7 +85,7 @@ In the study of the two FLOSS projects Jellyfin and Taskcafe, **4 primary catego
 
 ### Knowledge management and platform considerations  
 * Consolidating information is important to allow newcomers to understand a projects goals and infrastructure. 
-* A project must consider what information is stored where, and [how different types of information](/FLOSSUX/docs/Study%20Findings/conceps_pm/km.html#knowledge-management-and-platform-considerations) might affect how many resources are used for various things
+* A project must consider what information is stored where, and [how different types of information](/FLOSS-UX/docs/Study%20Findings/conceps_pm/km.html#knowledge-management-and-platform-considerations) might affect how many resources are used for various things
 * Consider what your project want from a platform.
     * GitHub is good for certain things, [Fider](https://features.jellyfin.org/), for example, is great for others. (as seen in the Jellyfin Project)
     * In smaller projects, chat platforms might be fine but on a larger scale projects need to consider how they want to do things.
