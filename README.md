@@ -1,4 +1,5 @@
-# FLOSS-UX
+![Logo](/FLOSS-UX/images/readmelogo.png)  
+
 *A project trying to enrich user experiences in FLOSS projects through discussion and collaboration. Share your experiences, perception, motivation or methods for how you handle UX in working with FLOSS projects, and help create awareness about the issues in the field.*
 
 ---  
